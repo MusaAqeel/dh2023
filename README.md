@@ -1,10 +1,5 @@
-# deerhacks
+# engen hacks
 
-[![Website Preview](assets/img/preview.jpg)](https://deerhacks.ca)
+[![Website Preview]](https://engenhacks.org)
 
-> deerhacks hackathon 2023 landing page
-
-## Built With
-
-- Bootstrap Studio
-- Visual Studio Code
+> engen hacks hackathon 2024 landing page
